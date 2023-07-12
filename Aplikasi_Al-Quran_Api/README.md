@@ -2,9 +2,9 @@
 
 ## Tugas Akhir Semester
 
-### Nama        : Fajar Firmansyah
-### Nim         : 312010309
-### Kelas       : TI.20.A3
+### Nama        : Muhammad Romdhom
+### Nim         : 312010434
+### Kelas       : TI.20.A.3
 ### Mata Kuliah : Pemrograman Mobile
 
 #### Link Api
@@ -14,6 +14,6 @@
 
 #### Tampilan Aplikasi
 
-![1.png](img/1.png)
+![home.png](img/home.png)
 
-![2.png](img/2.png)
+![alimran.png](img/alimran.png)
