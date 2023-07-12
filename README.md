@@ -16,6 +16,6 @@
 
 #### Tampilan Aplikasi
 
-![home.png](img/home.png)
+![home.png](Aplikasi_Al-Quran_Api/img/home.png)
 
-![alimran.png](img/alimran.png)
+![alimran.png](Aplikasi_Al-Quran_Api/img/alimran.png)
