@@ -10,12 +10,12 @@
 ### Mata Kuliah : Pemrograman Mobile
 
 #### Link Api
-* https://github.com/bachors/Al-Quran-ID-API/tree/master
+* https://github.com/Muhammadromdhon/uas-pemograman-mobile.git
 * https://api.npoint.io/99c279bb173a6e28359c/data
 
 
 #### Tampilan Aplikasi
 
-![hoome.png](img/hoome.png)
+![hoome.png](Aplikasi_Al-Quran_Api/img/hoome.png)
 
-![alimran.png](img/alimran.png)
+![alimran.png](Aplikasi_Al-Quran_Api/img/alimran.png)
